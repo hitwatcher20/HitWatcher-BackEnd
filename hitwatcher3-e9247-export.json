@@ -1,0 +1,492 @@
+{
+  "HIT Watcher" : {
+    "Classes" : {
+      "EEE330" : {
+        "class_code" : "EEE-330",
+        "number_of_students" : "30"
+      },
+      "HIT220" : {
+        "class_code" : "HIT-220",
+        "number_of_students" : "30"
+      },
+      "ICS221" : {
+        "class_code" : "ICS-221",
+        "number_of_students" : "30"
+      },
+      "ICS222" : {
+        "class_code" : "ICS-222",
+        "number_of_students" : "30"
+      }
+    },
+    "Days" : {
+      "Friday" : {
+        "Period1" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      },
+      "Monday" : {
+        "Period1" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      },
+      "Thursday" : {
+        "Period1" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      },
+      "Tuesday" : {
+        "Period1" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      },
+      "Wednesday" : {
+        "Period1" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      }
+    },
+    "Personal_Details" : {
+      "department" : "CS",
+      "lecturer_id" : "lec002",
+      "name" : "Hit",
+      "surname" : "Watcher"
+    },
+    "Students" : {
+      "H180001A" : {
+        "department" : "CS",
+        "name" : "John",
+        "reg_number" : "H180001A",
+        "school" : "IST",
+        "surname" : "Doe"
+      },
+      "H180002B" : {
+        "department" : "CS",
+        "name" : "Kelly",
+        "reg_number" : "H180002B",
+        "school" : "IST",
+        "surname" : "Diplock"
+      },
+      "H180003C" : {
+        "department" : "CS",
+        "name" : "Araron",
+        "reg_number" : "H180003C",
+        "school" : "IST",
+        "surname" : "Bedding"
+      },
+      "H180004D" : {
+        "department" : "CS",
+        "name" : "Munashe",
+        "reg_number" : "H180004D",
+        "school" : "IST",
+        "surname" : "Bhiza"
+      },
+      "H180005E" : {
+        "department" : "CS",
+        "name" : "Clint",
+        "reg_number" : "H180005E",
+        "school" : "IST",
+        "surname" : "Mukarakate"
+      },
+      "H180006F" : {
+        "department" : "CS",
+        "name" : "Roy",
+        "reg_number" : "H180006F",
+        "school" : "IST",
+        "surname" : "Muvirimi"
+      },
+      "H180068C" : {
+        "department" : "CS",
+        "name" : "Tinashe",
+        "reg_number" : "H180068C",
+        "school" : "IST",
+        "surname" : "Gufu"
+      }
+    }
+  },
+  "Tinashe Gufu" : {
+    "Classes" : {
+      "EEE330" : {
+        "class_code" : "EEE-330",
+        "number_of_students" : "30"
+      },
+      "HIT220" : {
+        "class_code" : "HIT-220",
+        "number_of_students" : "30"
+      },
+      "ICS221" : {
+        "class_code" : "ICS-221",
+        "number_of_students" : "30"
+      },
+      "ICS222" : {
+        "class_code" : "ICS-222",
+        "number_of_students" : "30"
+      }
+    },
+    "Days" : {
+      "Friday" : {
+        "Period1" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      },
+      "Monday" : {
+        "Period1" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      },
+      "Thursday" : {
+        "Period1" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      },
+      "Tuesday" : {
+        "Period1" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      },
+      "Wednesday" : {
+        "Period1" : {
+          "class_Code" : "HIT-220",
+          "period" : "Period 1",
+          "tend" : "10:00",
+          "tstart" : "08:00"
+        },
+        "Period2" : {
+          "class_Code" : "EEE-330",
+          "period" : "Period 2",
+          "tend" : "12:00",
+          "tstart" : "10:00"
+        },
+        "Period3" : {
+          "class_Code" : "ICS-221",
+          "period" : "Period 3",
+          "tend" : "1600",
+          "tstart" : "1400"
+        },
+        "Period4" : {
+          "class_Code" : "ICS-222",
+          "period" : "Period 4",
+          "tend" : "18:00",
+          "tstart" : "16:00"
+        }
+      }
+    },
+    "Personal_Details" : {
+      "department" : "CS",
+      "lecturer_id" : "lec001",
+      "name" : "Tinashe",
+      "surname" : "Gufu"
+    },
+    "Registers" : {
+      "EEE-330" : {
+        "Friday, May 29, 2020" : {
+          "Absent" : [ "H180001A", "H180002B", "H180003C", "H180004D", "H180005E", "H180006F" ],
+          "Present" : [ "H180068C" ]
+        },
+        "Wednesday, May 27, 2020" : {
+          "Absent" : [ "H180002B", "H180003C", "H180004D", "H180005E", "H180006F", "H180068C" ],
+          "Details" : {
+            "class_Code" : "EEE-330",
+            "numberAbsent" : "6",
+            "numberPresent" : "1"
+          },
+          "Present" : [ "H180001A" ]
+        }
+      },
+      "HIT-220" : {
+        "Thursday, May 28, 2020" : {
+          "Absent" : [ "H180001A", "H180002B", "H180003C", "H180004D", "H180005E", "H180006F", "H180068C" ],
+          "Details" : {
+            "class_Code" : "HIT-220",
+            "numberAbsent" : "7",
+            "numberPresent" : "0"
+          }
+        },
+        "Wednesday, May 27, 2020" : {
+          "Absent" : [ "H180004D", "H180005E", "H180006F", "H180068C" ],
+          "Details" : {
+            "class_Code" : "HIT-220",
+            "numberAbsent" : "4",
+            "numberPresent" : "3"
+          },
+          "Present" : [ "H180001A", "H180002B", "H180003C" ]
+        }
+      },
+      "ICS-221" : {
+        "Friday, May 29, 2020" : {
+          "Absent" : [ "H180002B", "H180003C", "H180004D", "H180005E", "H180006F" ],
+          "Present" : [ "H180068C", "H180001A" ]
+        },
+        "Wednesday, May 27, 2020" : {
+          "Absent" : [ "H180001A", "H180002B", "H180003C", "H180004D", "H180005E", "H180006F", "H180068C" ],
+          "Details" : {
+            "class_Code" : "ICS-221",
+            "numberAbsent" : "7",
+            "numberPresent" : "0"
+          }
+        }
+      },
+      "ICS-222" : {
+        "Friday, May 29, 2020" : {
+          "Absent" : [ "H180002B", "H180003C", "H180004D", "H180005E", "H180006F" ]
+        },
+        "Thursday, May 28, 2020" : {
+          "Absent" : [ "H180001A", "H180002B", "H180003C", "H180004D", "H180005E", "H180006F" ],
+          "Details" : {
+            "class_Code" : "ICS-222",
+            "numberAbsent" : "6",
+            "numberPresent" : "0"
+          }
+        },
+        "Wednesday, May 27, 2020" : {
+          "Absent" : [ "H180002B", "H180003C", "H180004D", "H180005E", "H180006F", "H180068C" ],
+          "Details" : {
+            "class_Code" : "ICS-222",
+            "numberAbsent" : "6",
+            "numberPresent" : "1"
+          },
+          "Present" : [ "H180001A" ]
+        }
+      }
+    },
+    "Students" : {
+      "H180001A" : {
+        "department" : "CS",
+        "name" : "John",
+        "reg_number" : "H180001A",
+        "school" : "IST",
+        "surname" : "Doe"
+      },
+      "H180002B" : {
+        "department" : "CS",
+        "name" : "Kelly",
+        "reg_number" : "H180002B",
+        "school" : "IST",
+        "surname" : "Diplock"
+      },
+      "H180003C" : {
+        "department" : "CS",
+        "name" : "Araron",
+        "reg_number" : "H180003C",
+        "school" : "IST",
+        "surname" : "Bedding"
+      },
+      "H180004D" : {
+        "department" : "CS",
+        "name" : "Munashe",
+        "reg_number" : "H180004D",
+        "school" : "IST",
+        "surname" : "Bhiza"
+      },
+      "H180005E" : {
+        "department" : "CS",
+        "name" : "Clint",
+        "reg_number" : "H180005E",
+        "school" : "IST",
+        "surname" : "Mukarakate"
+      },
+      "H180006F" : {
+        "department" : "CS",
+        "name" : "Roy",
+        "reg_number" : "H180006F",
+        "school" : "IST",
+        "surname" : "Muvirimi"
+      },
+      "H180068C" : {
+        "department" : "CS",
+        "name" : "Tinashe",
+        "reg_number" : "H180068C",
+        "school" : "IST",
+        "surname" : "Gufu"
+      }
+    }
+  }
+}
